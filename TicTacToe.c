@@ -1,32 +1,3 @@
-/************************leTrevorA3.c ***********************
-Student Name: Trevor Le Email Id: tle16@uoguelph.ca
-Date: November 28th, 2018 Course Name: CIS 1500
-I have exclusive control over this submission via my password.
-By including this statement in this header comment, I certify that:
-1) I have read and understood the University policy on academic
-integrity;
-2) I have completed the Computing with Integrity Tutorial on Moodle;
-and
-3) I have achieved at least 80% in the Computing with Integrity Self
-Test.
-I assert that this work is my own. I have appropriately acknowledged
-any and all material (data, images, ideas or words) that I have used,
-whether directly quoted or paraphrased. Furthermore, I certify that
-this assignment was prepared by me specifically for this course.
-*********************************************************************/
-/************************************************
-=================================================
-             Compiling the program
-=================================================
-This code can be compiled using the statement:
-gcc -Wall -std=c99 leTrevorA3.c -o <LeTrevorA3>
-=================================================
-              Running the program
-=================================================
-To run this code enter the command: ./leTrevorA3
-The program will then start the game.
-=================================================
-************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
